@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+## coding=utf-8
 import sys, re
 from handlers import *
 from utils import *
